@@ -60,6 +60,7 @@ const CourseInput = props => {
         <label>Course Goal</label>
         <input
           type="text"
+          value = 
           onChange={goalInputChangeHandler} />
 
       </FormControl>
